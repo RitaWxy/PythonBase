@@ -1,5 +1,5 @@
 # PythonBase内容
-Python基础相关知识笔记📒
+Python基础相关知识笔记📒\n
 1.Python基本语法
 2.Python程序结构
 3.Python数据类型
